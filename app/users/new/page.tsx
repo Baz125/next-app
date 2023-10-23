@@ -2,7 +2,7 @@
 import React from "react";
 import { useRouter } from "next/navigation";
 
-const NewUserPage = async () => {
+const NewUserPage = () => {
   const router = useRouter();
 
   return (
